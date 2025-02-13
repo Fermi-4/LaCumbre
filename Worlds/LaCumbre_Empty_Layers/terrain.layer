@@ -1,2 +1,8 @@
-GenericTerrainEntity {
+GenericTerrainEntity LaCumbre_Terrain {
+}
+GenericWorldPPEffect : "{3AFFB0B0EC055284}Prefabs/World/DefaultWorld/GenericWorldPP_Default.et" {
+ coords 1.923 0 -22.972
+}
+GenericWorldLightEntity {
+ coords 2370.886 1278.65 469.924
 }
