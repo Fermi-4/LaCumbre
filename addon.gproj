@@ -1,0 +1,8 @@
+GameProject {
+ ID "LaCumbre"
+ GUID "649A220127B872C6"
+ TITLE "LaCumbre"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
