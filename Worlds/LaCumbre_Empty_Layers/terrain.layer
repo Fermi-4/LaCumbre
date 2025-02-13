@@ -1,8 +1,50 @@
 GenericTerrainEntity LaCumbre_Terrain {
 }
+SCR_MapEntity MapEntity_Default1 : "{21C189074DAB7E90}Prefabs/World/DefaultWorld/MapEntity_Default.et" {
+ coords 2122.831 578.177 2062.525
+}
 GenericWorldPPEffect : "{3AFFB0B0EC055284}Prefabs/World/DefaultWorld/GenericWorldPP_Default.et" {
  coords 1.923 0 -22.972
 }
+DestructionManager : "{E5B570B5F32A7BAE}Prefabs/Systems/Destruction/DestructionManager.et" {
+ coords 2090.137 580.131 2144.516
+}
 GenericWorldLightEntity {
  coords 2370.886 1278.65 469.924
+}
+GenericWorldFogEntity : "{78D9BBF0F423FEB4}Prefabs/World/DefaultWorld/FogHaze_Default.et" {
+ coords 2117.588 578.519 2157.59
+}
+SCR_CameraManager SCR_CameraManager1 : "{33F9FD881E3700CC}Prefabs/World/Game/SCR_CameraManager.et" {
+ coords 2042.77 578.223 2142.452
+}
+TimeAndWeatherManagerEntity : "{A3BAF78F6F03315B}Prefabs/World/Game/TimeAndWeatherManager.et" {
+ coords 2098.172 578.118 2175.642
+}
+ProjectileSoundsManager : "{B4DA8B0024536625}Prefabs/World/Game/ProjectileSoundsManager.et" {
+ coords 2061.958 579.667 2176.348
+}
+BasePreloadManager PreloadManager_Campaign1 : "{32BFDCDE99092FCE}Prefabs/World/Game/PreloadManager_Campaign.et" {
+ coords 2032.391 578.381 2179.439
+}
+MusicManager : "{359452CCDBDD03F5}Prefabs/Sounds/Music/MusicManager_Campaign.et" {
+ coords 2023.171 578.265 2205.696
+}
+GenericEntity : "{434AFBBE90F2B078}Prefabs/Sounds/Environment/AmbientSounds_Everon.et" {
+ coords 2075.889 578.836 2174.243
+}
+RadioBroadcastManager : "{66B93BC296E2F977}Prefabs/Radio/RadioBroadcastManager.et" {
+ coords 2089.756 577.902 2180.531
+}
+GenericEntity : "{7699E66077068406}Prefabs/World/Game/ForestSyncManager.et" {
+ coords 2050.874 578.091 2211.383
+}
+SCR_MPDestructionManager : "{9BB369F2803C6F71}Prefabs/MP/MPDestructionManager.et" {
+ coords 2058.557 580.038 2156.095
+}
+EnvironmentProbeEntity : "{B6B6A21399C5571B}Prefabs/World/DefaultWorld/EnvProbe_Default.et" {
+ coords 2475.141 1583.27 2577.807
+}
+SoundWorld : "{FBE5065D0273E9E1}Prefabs/Sounds/SoundWorld/SoundWorld_Base.et" {
+ coords 2475.445 1583.265 2577.481
 }
