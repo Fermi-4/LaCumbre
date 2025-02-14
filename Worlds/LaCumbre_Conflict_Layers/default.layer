@@ -87,7 +87,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bCanBeHQ 1
    }
   }
-  coords 277.672 911.086 397.859
+  coords 468.846 1262.862 880.586
  }
 }
 SCR_BaseTaskManager CampaignTaskManager : "{17E3EF2CF455460F}Prefabs/MP/Campaign/CampaignTaskManager.et" {
