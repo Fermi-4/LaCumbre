@@ -3,7 +3,7 @@ GameProject {
  GUID "649A220127B872C6"
  TITLE "LaCumbre"
  Dependencies {
-  "58D0FB3206B6F859" "5E72B9AF7AD0CC29" "60B524F7A5AE96A8"
+  "58D0FB3206B6F859"
  }
  Configurations {
   GameProjectConfig PC {
