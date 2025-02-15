@@ -2182,8 +2182,13 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
 SCR_BaseTaskManager CampaignTaskManager : "{17E3EF2CF455460F}Prefabs/MP/Campaign/CampaignTaskManager.et" {
  coords 4950 -256 4953.607
 }
-GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupplyDepot.et" {
- coords 546.211 1271.151 1388.946
+$grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupplyDepot.et" {
+ {
+  coords 546.211 1271.151 1388.946
+ }
+ {
+  coords 2883.901 605.177 1791.008
+ }
 }
 GenericEntity : "{27E4C0ECA5EB1318}Prefabs/Structures/Military/Camps/Foundations/Foundation_ShelterStorage_01.et" {
  coords 1938.219 614.497 2157.673
@@ -2206,9 +2211,14 @@ $grp SCR_DestructibleBuildingEntity : "{35A406D39D6E0ADA}Prefabs/Structures/Mili
 SCR_LoadoutManager CampaignLoadoutManager : "{58FBD035E53D95C1}Prefabs/MP/Campaign/CampaignLoadoutManager.et" {
  coords 4950 -256 4954.607
 }
-GenericEntity : "{869A4C4CA7F43C21}Prefabs/MP/Campaign/SupplyDepots/SupplyCache_S_FIA_06_Campaign.et" {
- coords 540.055 1271.031 1380.351
- angleY 56.537
+$grp GenericEntity : "{869A4C4CA7F43C21}Prefabs/MP/Campaign/SupplyDepots/SupplyCache_S_FIA_06_Campaign.et" {
+ {
+  coords 540.055 1271.031 1380.351
+  angleY 56.537
+ }
+ {
+  coords 2883.101 605.45 1792.104
+ }
 }
 $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPatrolSpawnpoint_FIA.et" {
  {
@@ -2220,6 +2230,18 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
  {
   coords 543.773 1271.031 1391.639
  }
+ {
+  coords 2885.359 605.094 1790.684
+ }
+ {
+  coords 2895.398 605.091 1796.639
+ }
+ {
+  coords 2883.66 605.697 1801.14
+ }
+ {
+  coords 2895.146 605.979 1810.211
+ }
 }
 GenericEntity : "{B17411929589C43C}Prefabs/MP/Campaign/Assets/CampaignHQRadioEast.et" {
  coords 2099.261 613.972 2212.939
@@ -2228,6 +2250,14 @@ GenericEntity : "{B17411929589C43C}Prefabs/MP/Campaign/Assets/CampaignHQRadioEas
 GenericEntity : "{B4F2701CBBE49C48}Prefabs/Props/Military/Antennas/Antenna_RC292_01.et" {
  coords 2098.423 617.318 2214.052
  angleY 26.044
+}
+$grp GenericEntity : "{C63BFEEA9DE1CF26}Prefabs/MP/Campaign/SupplyDepots/SupplyCache_S_FIA_05_Campaign.et" {
+ {
+  coords 2883.595 605.916 1806.324
+ }
+ {
+  coords 2895.916 604.58 1787.93
+ }
 }
 $grp SCR_DestructibleBuildingEntity : "{CEB1F71D46592F3C}Prefabs/Structures/Airport/Hangar_01.et" {
  {
