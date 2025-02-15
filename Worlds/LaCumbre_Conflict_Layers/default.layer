@@ -61,7 +61,7 @@ SplineShapeEntity {
  coords 582.831 1265.691 939.374
  Points {
   ShapePoint "{649C168764824C39}" {
-   Position 0 -0 0
+   Position 0 0 0
   }
   ShapePoint "{649C1687648276B2}" {
    Position 43.563 5.852 36.524
@@ -407,6 +407,12 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
   coords 468.846 1262.862 880.586
+ }
+ {
+  coords 2658.892 1303.85 718.294
+ }
+ {
+  coords 2099.705 1339.339 902.011
  }
 }
 SCR_BaseTaskManager CampaignTaskManager : "{17E3EF2CF455460F}Prefabs/MP/Campaign/CampaignTaskManager.et" {
