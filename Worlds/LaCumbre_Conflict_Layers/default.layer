@@ -396,7 +396,7 @@ $grp SplineShapeEntity {
   coords 656.789 1280.169 1016.012
   Points {
    ShapePoint "{649EF02840D3F447}" {
-    Position 0 -0 0
+    Position 0 0 0
    }
    ShapePoint "{649EF02840D3FE2D}" {
     Position -1.328 1.86 24.175
@@ -443,7 +443,7 @@ $grp SplineShapeEntity {
       ID "523EAA80CAA6C6B5"
       SplinePoints {
        ShapePoint "{52346539D885C296}" {
-        Position 0 -0 0
+        Position 0 0 0
        }
        ShapePoint "{52346539D885C1A2}" {
         Position -1.328 1.86 24.175
@@ -620,7 +620,7 @@ $grp SplineShapeEntity {
   coords 2090.135 611.733 2148.694
   Points {
    ShapePoint "{649EF02AC2B5AC79}" {
-    Position 0 -0 0
+    Position 0 0 0
    }
    ShapePoint "{649EF02AC2B5D65C}" {
     Position 5 -0.525 3.081
@@ -1311,6 +1311,187 @@ $grp SplineShapeEntity {
    }
   }
  }
+ {
+  coords 1621.891 1373.688 972.731
+  Points {
+   ShapePoint "{649EF026AA7D5E1F}" {
+    Position 0 0.001 0
+   }
+   ShapePoint "{649EF026AA7D7485}" {
+    Position 42.621 2.284 -32.138
+   }
+   ShapePoint "{649EF026AD138536}" {
+    Position 98.579 4.725 -77.923
+   }
+   ShapePoint "{649EF026ADF78C9F}" {
+    Position 143.061 6.473 -115.897
+   }
+   ShapePoint "{649EF026B3F4F67F}" {
+    Position 200 3.091 -151.222
+   }
+   ShapePoint "{649EF026B2450240}" {
+    Position 270.733 -5.137 -194.782
+   }
+   ShapePoint "{649EF026B2223EF7}" {
+    Position 375.493 -11.861 -248.655
+   }
+   ShapePoint "{649EF026B2F9B883}" {
+    Position 492.268 -10.937 -287.651
+   }
+   ShapePoint "{649EF026B79EC9AD}" {
+    Position 621.674 -23.569 -332.144
+   }
+   ShapePoint "{649EF026B86B4C08}" {
+    Position 661.667 -24.668 -353.344
+   }
+   ShapePoint "{649EF026B8DC31E6}" {
+    Position 735.209 -31.312 -363.529
+   }
+   ShapePoint "{649EF026BECA4798}" {
+    Position 753.427 -30.82 -367.304
+   }
+   ShapePoint "{649EF026BEAB146C}" {
+    Position 784.561 -34.87 -371.594
+   }
+   ShapePoint "{649EF026BD0FFBA8}" {
+    Position 830.81 -35.579 -381.63
+   }
+   ShapePoint "{649EF026BC30FD45}" {
+    Position 871.383 -38.229 -386.378
+   }
+   ShapePoint "{649EF026C3ECBDC2}" {
+    Position 915.416 -39.644 -388.726
+   }
+   ShapePoint "{649EF026C240985D}" {
+    Position 945.794 -36.751 -383.779
+   }
+   ShapePoint "{649EF026C21A02D6}" {
+    Position 986.083 -41.187 -374.773
+   }
+   ShapePoint "{649EF026C7C9FF57}" {
+    Position 1006.424 -43.952 -371.019
+   }
+   ShapePoint "{649EF026C6583EC3}" {
+    Position 1048.213 -47.709 -365.478
+   }
+   ShapePoint "{649EF026C61C6C9A}" {
+    Position 1065.176 -48.344 -359.751
+   }
+   ShapePoint "{649EF026C6E16FB1}" {
+    Position 1087.452 -50.447 -350.207
+   }
+   ShapePoint "{649EF026C6ACBC3B}" {
+    Position 1108.721 -53.099 -337.866
+   }
+   ShapePoint "{649EF026C49DCBDC}" {
+    Position 1133.687 -58.214 -323.181
+   }
+   ShapePoint "{649EF026CB5A9EB7}" {
+    Position 1148.029 -61.966 -309.601
+   }
+   ShapePoint "{649EF026CB2DCB3C}" {
+    Position 1150.329 -70.145 -293.625
+   }
+   ShapePoint "{649EF026CA428AC8}" {
+    Position 1147.186 -74.683 -274.537
+   }
+  }
+  {
+   RoadGeneratorEntity : "{6EFBB8BA8D28B57D}PrefabLibrary/Generators/Roads/Asphalt/RG_Road_Asphalt_E_02.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "556C6C02C8F45A73"
+      SplinePoints {
+       ShapePoint "{556C6C02BD077CFC}" {
+        Position 0 0.001 0
+       }
+       ShapePoint "{556C6C02BD077389}" {
+        Position 42.621 2.284 -32.138
+       }
+       ShapePoint "{649EF026D4CC044A}" {
+        Position 98.579 4.725 -77.923
+       }
+       ShapePoint "{649EF026D4CC0488}" {
+        Position 143.061 6.473 -115.897
+       }
+       ShapePoint "{649EF026D4CC04FC}" {
+        Position 200 3.091 -151.222
+       }
+       ShapePoint "{649EF026D4CC1B28}" {
+        Position 270.733 -5.137 -194.782
+       }
+       ShapePoint "{649EF026D4CC1B05}" {
+        Position 375.493 -11.861 -248.655
+       }
+       ShapePoint "{649EF026D4CC1B40}" {
+        Position 492.268 -10.937 -287.651
+       }
+       ShapePoint "{649EF026D4CC1BB4}" {
+        Position 621.674 -23.569 -332.144
+       }
+       ShapePoint "{649EF026D4CC1BE6}" {
+        Position 661.666 -24.668 -353.343
+       }
+       ShapePoint "{649EF026D4CC1BDC}" {
+        Position 735.209 -31.312 -363.529
+       }
+       ShapePoint "{649EF026D4CC1A0B}" {
+        Position 753.427 -30.82 -367.304
+       }
+       ShapePoint "{649EF026D4CC1A60}" {
+        Position 784.561 -34.87 -371.593
+       }
+       ShapePoint "{649EF026D4CC1A5F}" {
+        Position 830.81 -35.579 -381.63
+       }
+       ShapePoint "{649EF026D4CC1A8A}" {
+        Position 871.383 -38.229 -386.378
+       }
+       ShapePoint "{649EF026D4CC1AFA}" {
+        Position 915.416 -39.644 -388.726
+       }
+       ShapePoint "{649EF026D4CC1AD3}" {
+        Position 945.794 -36.751 -383.779
+       }
+       ShapePoint "{649EF026D4CC190F}" {
+        Position 986.083 -41.187 -374.773
+       }
+       ShapePoint "{649EF026D4CC1979}" {
+        Position 1006.424 -43.952 -371.019
+       }
+       ShapePoint "{649EF026D4CC19AF}" {
+        Position 1048.212 -47.709 -365.477
+       }
+       ShapePoint "{649EF026D4CC1998}" {
+        Position 1065.176 -48.344 -359.75
+       }
+       ShapePoint "{649EF026D4CC19F4}" {
+        Position 1087.452 -50.447 -350.207
+       }
+       ShapePoint "{649EF026D4CC1820}" {
+        Position 1108.721 -53.099 -337.866
+       }
+       ShapePoint "{649EF026D4CC1819}" {
+        Position 1133.687 -58.214 -323.181
+       }
+       ShapePoint "{649EF026D4CC1875}" {
+        Position 1148.029 -61.966 -309.601
+       }
+       ShapePoint "{649EF026D4CC18A7}" {
+        Position 1150.329 -70.145 -293.625
+       }
+       ShapePoint "{649EF026D4CC1891}" {
+        Position 1147.185 -74.683 -274.537
+       }
+      }
+      IsClosedSpline 0
+      Width 8
+     }
+    }
+   }
+  }
+ }
 }
 $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMilitaryBase.et" {
  {
@@ -1342,6 +1523,15 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    }
   }
   coords 2002.817 611.812 2214.281
+ }
+ {
+  coords 2985.414 1010.85 1152.338
+ }
+ {
+  coords 2495.816 611.907 1593.548
+ }
+ {
+  coords 2697.417 642.637 2195.608
  }
 }
 SCR_BaseTaskManager CampaignTaskManager : "{17E3EF2CF455460F}Prefabs/MP/Campaign/CampaignTaskManager.et" {
