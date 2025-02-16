@@ -3154,12 +3154,191 @@ $grp SplineShapeEntity {
    }
   }
  }
+ {
+  coords 3274.149 1386.282 3250.415
+  Points {
+   ShapePoint "{64A0FC06C3E6C364}" {
+    Position 5.559 -0.169 -10.31
+   }
+   ShapePoint "{64A0FC06C3E6EE24}" {
+    Position -24.315 4.156 19.196
+   }
+   ShapePoint "{64A0FC06C65628C4}" {
+    Position -35.894 6.108 32.311
+   }
+   ShapePoint "{64A0FC06C6136080}" {
+    Position -68.468 12.533 54.024
+   }
+   ShapePoint "{64A0FC06C6998C71}" {
+    Position -126.013 26.473 89.056
+   }
+   ShapePoint "{64A0FC06C5020DCF}" {
+    Position -199.869 44.558 100.948
+   }
+   ShapePoint "{64A0FC06CB728F46}" {
+    Position -253.542 51.189 126.141
+   }
+   ShapePoint "{64A0FC06CBCD6E98}" {
+    Position -302.612 50.051 160.974
+   }
+   ShapePoint "{64A0FC06CABE40DC}" {
+    Position -370.705 44.612 205.084
+   }
+   ShapePoint "{64A0FC06C9020BEC}" {
+    Position -448.683 48.451 257.069
+   }
+   ShapePoint "{64A0FC06C93CEC65}" {
+    Position -581.417 46.484 310.578
+   }
+   ShapePoint "{64A0FC06D498B499}" {
+    Position -631.077 47.612 328.041
+   }
+   ShapePoint "{64A0FC06DB4E9A51}" {
+    Position -683.989 41.426 339.855
+   }
+   ShapePoint "{64A0FC06DB71337B}" {
+    Position -719.797 39.333 346.112
+   }
+   ShapePoint "{64A0FC06DB19E45E}" {
+    Position -749.039 36.677 353.635
+   }
+   ShapePoint "{64A0FC06DBC05D63}" {
+    Position -795.891 32.571 354.761
+   }
+   ShapePoint "{64A0FC06DBEF7A42}" {
+    Position -843.728 29.409 362.5
+   }
+   ShapePoint "{64A0FC06DB95DD1F}" {
+    Position -903.959 33.852 377.16
+   }
+   ShapePoint "{64A0FC06D8DB5D11}" {
+    Position -926.721 38.298 373.226
+   }
+   ShapePoint "{64A0FC071EE30E94}" {
+    Position -941.663 41.604 374.028
+   }
+   ShapePoint "{64A0FC071EADCE60}" {
+    Position -951.126 42.079 375.417
+   }
+   ShapePoint "{64A0FC071D764F3D}" {
+    Position -960.674 43.583 373.896
+   }
+   ShapePoint "{64A0FC071D356E30}" {
+    Position -968.13 45.436 371.284
+   }
+   ShapePoint "{64A0FC071D9243FA}" {
+    Position -975.593 47.836 366.55
+   }
+   ShapePoint "{64A0FC07238BD5AA}" {
+    Position -977.68 49.161 361.979
+   }
+   ShapePoint "{64A0FC072265FF1F}" {
+    Position -977.927 49.313 357.043
+   }
+  }
+  {
+   RoadGeneratorEntity : "{6EFBB8BA8D28B57D}PrefabLibrary/Generators/Roads/Asphalt/RG_Road_Asphalt_E_02.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "556C6C02C8F45A73"
+      SplinePoints {
+       ShapePoint "{556C6C02BD077CFC}" {
+        Position 5.559 -0.169 -10.31
+       }
+       ShapePoint "{556C6C02BD077389}" {
+        Position -24.315 4.156 19.196
+       }
+       ShapePoint "{64A0FC072D373E7F}" {
+        Position -35.894 6.108 32.311
+       }
+       ShapePoint "{64A0FC072D373EBF}" {
+        Position -68.468 12.533 54.024
+       }
+       ShapePoint "{64A0FC072D373E95}" {
+        Position -126.013 26.473 89.056
+       }
+       ShapePoint "{64A0FC072D373EC6}" {
+        Position -199.869 44.558 100.948
+       }
+       ShapePoint "{64A0FC072D373D32}" {
+        Position -253.541 51.189 126.141
+       }
+       ShapePoint "{64A0FC072D373D61}" {
+        Position -302.612 50.051 160.974
+       }
+       ShapePoint "{64A0FC072D373D5D}" {
+        Position -370.705 44.612 205.084
+       }
+       ShapePoint "{64A0FC072D373D8A}" {
+        Position -448.683 48.451 257.069
+       }
+       ShapePoint "{64A0FC072D373DE1}" {
+        Position -581.417 46.484 310.578
+       }
+       ShapePoint "{64A0FC072D373DDC}" {
+        Position -631.077 47.612 328.041
+       }
+       ShapePoint "{64A0FC072D373C0B}" {
+        Position -683.989 41.426 339.855
+       }
+       ShapePoint "{64A0FC072D373C61}" {
+        Position -719.797 39.333 346.111
+       }
+       ShapePoint "{64A0FC072D373C5D}" {
+        Position -749.039 36.677 353.635
+       }
+       ShapePoint "{64A0FC072D373C8E}" {
+        Position -795.891 32.571 354.761
+       }
+       ShapePoint "{64A0FC072D373CF7}" {
+        Position -843.728 29.409 362.5
+       }
+       ShapePoint "{64A0FC072D373325}" {
+        Position -903.959 33.852 377.16
+       }
+       ShapePoint "{64A0FC072D373310}" {
+        Position -926.721 38.298 373.225
+       }
+       ShapePoint "{64A0FC072D373342}" {
+        Position -941.663 41.604 374.028
+       }
+       ShapePoint "{64A0FC072D3733BE}" {
+        Position -951.126 42.079 375.416
+       }
+       ShapePoint "{64A0FC072D3733EA}" {
+        Position -960.674 43.583 373.896
+       }
+       ShapePoint "{64A0FC072D3733C7}" {
+        Position -968.13 45.436 371.284
+       }
+       ShapePoint "{64A0FC072D373231}" {
+        Position -975.593 47.836 366.55
+       }
+       ShapePoint "{64A0FC072D373263}" {
+        Position -977.679 49.161 361.978
+       }
+       ShapePoint "{64A0FC072D37325E}" {
+        Position -977.927 49.313 357.043
+       }
+      }
+      IsClosedSpline 0
+      Width 8
+     }
+    }
+   }
+  }
+ }
 }
 $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMilitaryBase.et" {
  {
   components {
    SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
     m_bCanBeHQ 1
+   }
+   SCR_CoverageRadioComponent "{5C669673C2A82A2B}" {
+    "Turned on" 1
+    m_bIsSource 1
    }
   }
   coords 3765.317 1319.711 3673.503
@@ -3169,6 +3348,10 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
     m_iRadius 200
     m_bCanBeHQ 1
+   }
+   SCR_CoverageRadioComponent "{5C669673C2A82A2B}" {
+    "Turned on" 1
+    m_bIsSource 1
    }
   }
   coords 468.846 1262.862 880.586
@@ -3219,15 +3402,6 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
  {
   components {
    SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
-    m_bIsControlPoint 1
-    m_bDisableWhenUnusedAsHQ 0
-   }
-  }
-  coords 2697.417 642.637 2195.608
- }
- {
-  components {
-   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
     m_iRadius 150
     m_bDisableWhenUnusedAsHQ 0
    }
@@ -3237,43 +3411,14 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
  {
   components {
    SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
-    m_bDisableWhenUnusedAsHQ 0
-   }
-  }
-  coords 3661.079 1395.519 2006.789
- }
- {
-  components {
-   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
-    m_bDisableWhenUnusedAsHQ 0
-   }
-  }
-  coords 691.16 1310.938 2772.921
- }
- {
-  components {
-   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
-    m_bDisableWhenUnusedAsHQ 0
-   }
-  }
-  coords 3287.209 1457.823 2843.096
- }
- {
-  components {
-   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
     m_iRadius 200
     m_bDisableWhenUnusedAsHQ 0
    }
   }
-  coords 1216.816 988.251 3112.948
+  coords 1865.241 924.969 3203.112
  }
  {
-  components {
-   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
-    m_bDisableWhenUnusedAsHQ 0
-   }
-  }
-  coords 2618.492 1488.763 3379.1
+  coords 2437.948 1453.51 3505.895
  }
  {
   components {
@@ -3282,16 +3427,10 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bDisableWhenUnusedAsHQ 0
    }
   }
-  coords 1441.062 587.404 2209.719
+  coords 1577.266 643.829 2554.072
  }
  {
-  components {
-   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
-    m_bIsControlPoint 1
-    m_bDisableWhenUnusedAsHQ 0
-   }
-  }
-  coords 1927.644 620.344 2811.521
+  coords 3108.833 1411.42 3630.507
  }
 }
 SCR_BaseTaskManager CampaignTaskManager : "{17E3EF2CF455460F}Prefabs/MP/Campaign/CampaignTaskManager.et" {
@@ -3315,7 +3454,7 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
   coords 3273.932 1339.746 3848.742
  }
  {
-  coords 1900.4 928.93 3197.997
+  coords 2302.718 1435.595 3570.563
  }
 }
 GenericEntity : "{27E4C0ECA5EB1318}Prefabs/Structures/Military/Camps/Foundations/Foundation_ShelterStorage_01.et" {
@@ -3336,6 +3475,9 @@ $grp SCR_DestructibleBuildingEntity : "{35A406D39D6E0ADA}Prefabs/Structures/Mili
   coords 1975.465 0 2285.957
  }
 }
+GenericEntity : "{47789BA6E9CA2928}Prefabs/MP/Campaign/SupplyDepots/SupplyCache_S_FIA_03_Campaign.et" {
+ coords 2307.992 1435.594 3570.743
+}
 SCR_LoadoutManager CampaignLoadoutManager : "{58FBD035E53D95C1}Prefabs/MP/Campaign/CampaignLoadoutManager.et" {
  coords 4950 -256 4954.607
 }
@@ -3354,7 +3496,7 @@ $grp GenericEntity : "{869A4C4CA7F43C21}Prefabs/MP/Campaign/SupplyDepots/SupplyC
   coords 3285.643 1340.565 3859.466
  }
  {
-  coords 1878.188 924.969 3186.046
+  coords 2292.193 1435.594 3568.223
  }
 }
 SCR_DestructibleBuildingEntity : "{89FDF6F5697B462F}PrefabLibrary/Structures/Military/GuardBox_01_b/GuardBox_01_beige.et" {
@@ -3402,13 +3544,13 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
   coords 3291.691 1340.847 3859.168
  }
  {
-  coords 1891.209 924.969 3192.565
+  coords 2298.716 1435.594 3578.145
  }
  {
-  coords 1878.533 925.031 3211.473
+  coords 2284.413 1435.594 3576.211
  }
  {
-  coords 1876.43 924.969 3183.872
+  coords 2315.175 1435.594 3573.927
  }
 }
 SCR_DestructibleBuildingEntity : "{9606669975C97DC9}Prefabs/Structures/Military/Houses/GuardHouse_02/GuardHouse_02_civilian.et" {
@@ -3432,9 +3574,6 @@ $grp GenericEntity : "{C63BFEEA9DE1CF26}Prefabs/MP/Campaign/SupplyDepots/SupplyC
  {
   coords 3269.946 1339.998 3843.203
  }
- {
-  coords 1889.277 925.011 3209.907
- }
 }
 $grp SCR_DestructibleBuildingEntity : "{CEB1F71D46592F3C}Prefabs/Structures/Airport/Hangar_01.et" {
  {
@@ -3448,11 +3587,6 @@ $grp SCR_DestructibleBuildingEntity : "{CEB1F71D46592F3C}Prefabs/Structures/Airp
 SCR_DestructibleBuildingEntity : "{F16324CB8CB07C00}Prefabs/Structures/Military/Houses/GarageMilitary_E_01/GarageMilitary_E_01.et" {
  coords 2073.511 0 2172.845
 }
-$grp GenericEntity : "{F9A490888BED61DB}Prefabs/MP/Campaign/SupplyDepots/SupplyCache_S_FIA_04_Campaign.et" {
- {
-  coords 3267.155 1340.934 3859.891
- }
- {
-  coords 1902.772 924.968 3189.132
- }
+GenericEntity : "{F9A490888BED61DB}Prefabs/MP/Campaign/SupplyDepots/SupplyCache_S_FIA_04_Campaign.et" {
+ coords 3267.155 1340.934 3859.891
 }
