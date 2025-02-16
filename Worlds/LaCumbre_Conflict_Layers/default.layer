@@ -857,14 +857,6 @@ $grp SplineShapeEntity {
        angleY -254.496
       }
       {
-       coords -173.629 -0.014 77.565
-       angleY -269.806
-      }
-      {
-       coords -173.649 0.003 71.642
-       angleY -269.806
-      }
-      {
        coords -173.877 0.033 48.026
        angleY -268.351
       }
@@ -2137,6 +2129,170 @@ $grp SplineShapeEntity {
    }
   }
  }
+ {
+  coords 2256.791 1339.305 835.472
+  Points {
+   ShapePoint "{649EF03573BFDCDA}" {
+    Position 2.118 0.413 -8.917
+   }
+   ShapePoint "{649EF03573BFC780}" {
+    Position -1.683 -0.851 4.508
+   }
+   ShapePoint "{649EF03575197FCF}" {
+    Position -3.62 -2.534 11.146
+   }
+   ShapePoint "{649EF03575DB2589}" {
+    Position -7.407 -3.84 16.414
+   }
+   ShapePoint "{649EF03575B5414E}" {
+    Position -13.814 -5.63 24.615
+   }
+   ShapePoint "{649EF0357A06A287}" {
+    Position -16.191 -6.087 27.858
+   }
+  }
+  {
+   RoadGeneratorEntity : "{6EFBB8BA8D28B57D}PrefabLibrary/Generators/Roads/Asphalt/RG_Road_Asphalt_E_02.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "556C6C02C8F45A73"
+      SplinePoints {
+       ShapePoint "{556C6C02BD077CFC}" {
+        Position 2.118 0.413 -8.917
+       }
+       ShapePoint "{556C6C02BD077389}" {
+        Position -1.683 -0.851 4.508
+       }
+       ShapePoint "{649EF0358231E343}" {
+        Position -3.62 -2.534 11.146
+       }
+       ShapePoint "{649EF0358231E39A}" {
+        Position -7.407 -3.84 16.414
+       }
+       ShapePoint "{649EF0358231E3CF}" {
+        Position -13.814 -5.63 24.615
+       }
+       ShapePoint "{649EF0358231E235}" {
+        Position -16.191 -6.087 27.858
+       }
+      }
+      IsClosedSpline 0
+      Width 8
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 1914.879 611.44 2221.421
+  Points {
+   ShapePoint "{64A0FC255E6E59E8}" {
+    Position 0 0 0
+   }
+   ShapePoint "{64A0FC255E6E4DE5}" {
+    Position -4.163 -0.785 0.073
+   }
+   ShapePoint "{64A0FC25673A9103}" {
+    Position -8.089 -2.095 -0.057
+   }
+   ShapePoint "{64A0FC25679133C0}" {
+    Position -13.385 -4.065 -0.015
+   }
+   ShapePoint "{64A0FC25667AF12F}" {
+    Position -22.612 -6.616 -0.379
+   }
+   ShapePoint "{64A0FC2565F7E4AC}" {
+    Position -26.274 -7.773 -0.679
+   }
+   ShapePoint "{64A0FC25644E41F7}" {
+    Position -32.005 -9.167 -0.767
+   }
+   ShapePoint "{64A0FC25643B516E}" {
+    Position -39.203 -11.516 -0.85
+   }
+   ShapePoint "{64A0FC256CD5A6FB}" {
+    Position -42.604 -12.633 -0.894
+   }
+   ShapePoint "{64A0FC2573641614}" {
+    Position -45.422 -13.522 -0.675
+   }
+   ShapePoint "{64A0FC2573D06E6E}" {
+    Position -47.899 -14.164 -0.752
+   }
+   ShapePoint "{64A0FC2573B45B27}" {
+    Position -50.611 -14.93 -0.608
+   }
+   ShapePoint "{64A0FC2571426C80}" {
+    Position -53.235 -15.795 -0.466
+   }
+   ShapePoint "{64A0FC25710C56A5}" {
+    Position -55.766 -16.79 -0.371
+   }
+   ShapePoint "{64A0FC2571EE2CE3}" {
+    Position -58.497 -17.842 -0.445
+   }
+  }
+  {
+   RoadGeneratorEntity : "{8E83BBD5CEC42A11}Prefabs/WEGenerators/Roads/Dirt/RG_Road_Dirt_01.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "523EAA80CAA6C6B5"
+      SplinePoints {
+       ShapePoint "{52346539D885C296}" {
+        Position 0 0 0
+       }
+       ShapePoint "{52346539D885C1A2}" {
+        Position -4.163 -0.785 0.073
+       }
+       ShapePoint "{64A0FC257FB2096C}" {
+        Position -8.089 -2.095 -0.057
+       }
+       ShapePoint "{64A0FC257FB209A3}" {
+        Position -13.385 -4.065 -0.015
+       }
+       ShapePoint "{64A0FC257FB20993}" {
+        Position -22.612 -6.616 -0.379
+       }
+       ShapePoint "{64A0FC257FB209C4}" {
+        Position -26.274 -7.773 -0.679
+       }
+       ShapePoint "{64A0FC257FB20834}" {
+        Position -32.005 -9.167 -0.767
+       }
+       ShapePoint "{64A0FC257FB2087C}" {
+        Position -39.203 -11.516 -0.85
+       }
+       ShapePoint "{64A0FC257FB208A0}" {
+        Position -42.604 -12.633 -0.894
+       }
+       ShapePoint "{64A0FC257FB20897}" {
+        Position -45.422 -13.522 -0.675
+       }
+       ShapePoint "{64A0FC257FB208C4}" {
+        Position -47.899 -14.164 -0.752
+       }
+       ShapePoint "{64A0FC257FB20F34}" {
+        Position -50.611 -14.93 -0.608
+       }
+       ShapePoint "{64A0FC257FB20F61}" {
+        Position -53.235 -15.795 -0.466
+       }
+       ShapePoint "{64A0FC257FB20F5F}" {
+        Position -55.766 -16.79 -0.371
+       }
+       ShapePoint "{64A0FC257FB20F88}" {
+        Position -58.497 -17.842 -0.445
+       }
+      }
+      IsClosedSpline 0
+      Width 4
+     }
+    }
+   }
+  }
+ }
 }
 $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMilitaryBase.et" {
  {
@@ -2165,6 +2321,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
   components {
    SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
     m_iRadius 200
+    m_bIsControlPoint 1
    }
   }
   coords 2002.817 611.812 2214.281
@@ -2173,14 +2330,28 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
   coords 2985.414 1010.85 1152.338
  }
  {
+  components {
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_bIsControlPoint 1
+   }
+  }
   coords 2495.816 611.907 1593.548
  }
  {
+  components {
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_bIsControlPoint 1
+   }
+  }
   coords 2697.417 642.637 2195.608
  }
 }
 SCR_BaseTaskManager CampaignTaskManager : "{17E3EF2CF455460F}Prefabs/MP/Campaign/CampaignTaskManager.et" {
  coords 4950 -256 4953.607
+}
+SCR_DestructibleBuildingEntity : "{1982A8DD680C416B}PrefabLibrary/Structures/Military/GuardTower_01.et" {
+ coords 1924.417 1.221 2205.937
+ angleY -89.502
 }
 $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupplyDepot.et" {
  {
@@ -2188,6 +2359,9 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
  }
  {
   coords 2883.901 605.177 1791.008
+ }
+ {
+  coords 2302.488 1327.86 892.996
  }
 }
 GenericEntity : "{27E4C0ECA5EB1318}Prefabs/Structures/Military/Camps/Foundations/Foundation_ShelterStorage_01.et" {
@@ -2219,6 +2393,13 @@ $grp GenericEntity : "{869A4C4CA7F43C21}Prefabs/MP/Campaign/SupplyDepots/SupplyC
  {
   coords 2883.101 605.45 1792.104
  }
+ {
+  coords 2305.817 1327.871 887.701
+ }
+}
+SCR_DestructibleBuildingEntity : "{89FDF6F5697B462F}PrefabLibrary/Structures/Military/GuardBox_01_b/GuardBox_01_beige.et" {
+ coords 1913.182 0.017 2215.159
+ angleY 92.006
 }
 $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPatrolSpawnpoint_FIA.et" {
  {
@@ -2242,6 +2423,18 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
  {
   coords 2895.146 605.979 1810.211
  }
+ {
+  coords 2297.834 1328.369 879.208
+ }
+ {
+  coords 2305.015 1327.373 900.001
+ }
+ {
+  coords 2319.133 1327.438 887.711
+ }
+}
+SCR_DestructibleBuildingEntity : "{9606669975C97DC9}Prefabs/Structures/Military/Houses/GuardHouse_02/GuardHouse_02_civilian.et" {
+ coords 1935.66 0 2235.706
 }
 GenericEntity : "{B17411929589C43C}Prefabs/MP/Campaign/Assets/CampaignHQRadioEast.et" {
  coords 2099.261 613.972 2212.939
