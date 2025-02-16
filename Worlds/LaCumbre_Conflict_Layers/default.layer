@@ -3174,9 +3174,19 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
   coords 468.846 1262.862 880.586
  }
  {
+  components {
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_bDisableWhenUnusedAsHQ 0
+   }
+  }
   coords 2658.892 1303.85 718.294
  }
  {
+  components {
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_bDisableWhenUnusedAsHQ 0
+   }
+  }
   coords 2099.705 1339.339 902.011
  }
  {
@@ -3184,17 +3194,24 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
     m_iRadius 200
     m_bIsControlPoint 1
+    m_bDisableWhenUnusedAsHQ 0
    }
   }
   coords 2002.817 611.812 2214.281
  }
  {
+  components {
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_bDisableWhenUnusedAsHQ 0
+   }
+  }
   coords 2985.414 1010.85 1152.338
  }
  {
   components {
    SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
     m_bIsControlPoint 1
+    m_bDisableWhenUnusedAsHQ 0
    }
   }
   coords 2495.816 611.907 1593.548
@@ -3203,6 +3220,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
   components {
    SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
     m_bIsControlPoint 1
+    m_bDisableWhenUnusedAsHQ 0
    }
   }
   coords 2697.417 642.637 2195.608
@@ -3211,34 +3229,57 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
   components {
    SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
     m_iRadius 150
+    m_bDisableWhenUnusedAsHQ 0
    }
   }
   coords 1304.316 1345 1111.782
  }
  {
+  components {
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_bDisableWhenUnusedAsHQ 0
+   }
+  }
   coords 3661.079 1395.519 2006.789
  }
  {
+  components {
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_bDisableWhenUnusedAsHQ 0
+   }
+  }
   coords 691.16 1310.938 2772.921
  }
  {
+  components {
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_bDisableWhenUnusedAsHQ 0
+   }
+  }
   coords 3287.209 1457.823 2843.096
  }
  {
   components {
    SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
     m_iRadius 200
+    m_bDisableWhenUnusedAsHQ 0
    }
   }
   coords 1216.816 988.251 3112.948
  }
  {
+  components {
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_bDisableWhenUnusedAsHQ 0
+   }
+  }
   coords 2618.492 1488.763 3379.1
  }
  {
   components {
    SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
     m_bIsControlPoint 1
+    m_bDisableWhenUnusedAsHQ 0
    }
   }
   coords 1441.062 587.404 2209.719
@@ -3247,6 +3288,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
   components {
    SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
     m_bIsControlPoint 1
+    m_bDisableWhenUnusedAsHQ 0
    }
   }
   coords 1927.644 620.344 2811.521
