@@ -3388,7 +3388,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bDisableWhenUnusedAsHQ 0
    }
   }
-  coords 2985.414 1010.85 1152.338
+  coords 3114.108 1004.227 1271.823
  }
  {
   components {
