@@ -2856,7 +2856,7 @@ $grp SplineShapeEntity {
   coords 1291.122 983.326 3088.814
   Points {
    ShapePoint "{64A0FC3E9CEA9690}" {
-    Position 0 -0 0
+    Position 0 0 0
    }
    ShapePoint "{64A0FC3E9CEA84EC}" {
     Position 24.839 -7.053 0
@@ -2912,7 +2912,7 @@ $grp SplineShapeEntity {
       ID "523EAA80CAA6C6B5"
       SplinePoints {
        ShapePoint "{52346539D885C296}" {
-        Position 0 -0 0
+        Position 0 0 0
        }
        ShapePoint "{52346539D885C1A2}" {
         Position 24.839 -7.053 0
@@ -3385,6 +3385,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
  {
   components {
    SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_bIsControlPoint 1
     m_bDisableWhenUnusedAsHQ 0
    }
   }
@@ -3412,6 +3413,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
   components {
    SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
     m_iRadius 200
+    m_bIsControlPoint 1
     m_bDisableWhenUnusedAsHQ 0
    }
   }
